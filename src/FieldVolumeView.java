@@ -1,4 +1,4 @@
-package View;
+
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -16,12 +16,6 @@ import javax.swing.JSpinner;
 import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 import javax.swing.text.DefaultFormatter;
-
-import Controller.VolumeController;
-import Model.Complex;
-import Model.VolumeModel;
-import View.XYLineChartExample;
-import Model.lanceur;
 
 import java.awt.Color;
 import java.awt.TextArea; 

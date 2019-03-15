@@ -1,0 +1,14 @@
+/Controller/
+/Main/
+/Model/
+/View/
+/log4j.xml
+/VolumeController.class
+/Main.class
+/Complex.class
+/Echantillon.class
+/FFT.class
+/VolumeModel.class
+/lanceur.class
+/FieldVolumeView.class
+/XYLineChartExample.class

@@ -1,4 +1,4 @@
-package View;
+
 
 
 
@@ -24,7 +24,6 @@ import org.jfree.data.xy.XYDataset;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 
-import Model.Complex;
 
 /**
  * This program demonstrates how to draw XY line chart with XYDataset
